@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YOTI frontend MVP
 
 A responsive browser-based demonstration of the Youth Orientation Tracking Initiative: a supportive student welfare space for schools and universities in Cameroon.
@@ -85,3 +86,6 @@ Coverage includes reporting and refresh reset, appointment booking/cancellation 
 ## Verification results
 
 The production build, TypeScript check and ESLint check pass. All 10 Playwright browser tests pass, including the four viewport checks. Desktop and phone overview screenshots were also inspected. Browser tests use Chrome; physical devices and other browser engines have not been tested.
+=======
+# yoti-frontend
+>>>>>>> origin/main
