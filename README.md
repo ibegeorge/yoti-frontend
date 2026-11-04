@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # YOTI frontend MVP
 
 A responsive browser-based demonstration of the Youth Orientation Tracking Initiative: a supportive student welfare space for schools and universities in Cameroon.
