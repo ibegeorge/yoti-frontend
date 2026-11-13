@@ -7,3 +7,5 @@ playwright-report/
 .env
 .env.*
 !.env.example
+gha-creds-*.json
+gha-kubeconfig-*
